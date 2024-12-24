@@ -34,7 +34,7 @@
 
 ## 📫 How to Reach Me
 - 📧 Email: [hashiniwasana99@gmail.com](mailto:hashiniwasana99@gmail.com)
-- 🌐 LinkedIn: [Your LinkedIn URL]
+- 🌐 LinkedIn: [Wasana Ramanayake](www.linkedin.com/in/wasana-ramanayaka-8b6970290)
 - 🌟 GitHub: [Wasana-Ramanayake](https://github.com/Wasana-Ramanayake)
 
 ---
