@@ -6,8 +6,8 @@
 
 ## 🌟 About Me
 - 🎓 **Current Role:** IT Student at the University of Moratuwa, specializing in Information Technology.
-- 🔍 **Current Learning:** Selenium, Postman, Java, JavaScript, Flutter, React, Node.js, SQL.
-- 🌱 **Goal:** Aspiring to become a Quality Assurance Engineer with expertise in delivering high-quality software.
+- 🔍 **Current Learning:** Angular, Flutter, React, Node.js, SQL ,Selenium, Postman, Java, JavaScript.
+- 🌱 **Goal:** Aspiring Software Engineer dedicated to delivering high-quality software with expertise and passion.
 - ✨ **Fun Fact:** I believe in the power of hard work and creativity to make impactful solutions.
 
 ---
