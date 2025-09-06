@@ -17,7 +17,7 @@
 | **Project**          | **Description**                                                                 | **Tech Stack**                      |
 |-----------------------|---------------------------------------------------------------------------------|-------------------------------------|
 | **My License & Fines**| A digital traffic violation management system with mobile and web apps.         | Flutter, React, Node.js, MySQL      |
-| **[Your Second Project Name]** | [Short description of the project.]                                       | [Technologies used]                 |
+| **Dearo Education** | A mobile learning app that makes education easy, interactive, Browse courses, track progress, and take quizzes        | Flutter, Node.js, Express.js, MySQL    |
 
 ---
 
